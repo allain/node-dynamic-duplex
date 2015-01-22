@@ -1,6 +1,6 @@
 {
   "name": "dynamic-duplex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dynamically wires up readable streams based on data it receives.",
   "main": "index.js",
   "scripts": {
